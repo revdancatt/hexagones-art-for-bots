@@ -1,0 +1,27 @@
+{
+  "name": "hexagones-art-for-bots",
+  "version": "1.0.0",
+  "description": "Art... for bots",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://revdancatt@github.com/revdancatt/hexagones-art-for-bots.git"
+  },
+  "keywords": [
+    "genartclub",
+    "generativeart",
+    "fxhash"
+  ],
+  "author": "revdancatt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/revdancatt/hexagones-art-for-bots/issues"
+  },
+  "homepage": "https://github.com/revdancatt/hexagones-art-for-bots#readme",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
+}

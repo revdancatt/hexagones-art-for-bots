@@ -1,7 +1,7 @@
-/* global fxrand fxhash palettes preloadImagesTmr */
+/* global fxrand fxhash $fx fxpreview palettes preloadImagesTmr */
 
 //
-//  HEXAGONES - art for bots - revdancatt ??/??/2022
+//  HEXAGONES - art for bots - revdancatt 31/01/2022
 //
 //
 //  HELLO!! Code is copyright revdancatt (that's me), so no sneaky using it for your
